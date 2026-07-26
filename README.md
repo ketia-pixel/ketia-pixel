@@ -1,7 +1,7 @@
 <h1 align="center">HI, I'm Kethia IRANZI! 👋</h1>
 
 <h3 align="center">
-Full Stack Developer | software Developer | Problem Solver
+Student from Rwanda | software Developer | Problem Solver
 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
